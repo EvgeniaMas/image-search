@@ -1,0 +1,19 @@
+{
+  "name": "image-search",
+  "description": "Image Search Abstraction Layer",
+  "version": "1.0.0",
+  "author": {
+    "name": "Evgeniia"
+  },
+  "dependencies": {
+    "body-parser": "~1.14.x",
+    "express": "~4.13.x",
+    "g-i-s": "^2.0.0"
+  },
+  "engines": {
+    "node": "4.2.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

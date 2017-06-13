@@ -1,0 +1,21 @@
+    body {
+    	background-color: #d04764;
+    	text-align: center;
+    	color: #fff; 
+    	
+    }
+
+    h1 { font-family: ‘Lobster’, cursive; font-size: 36px; font-weight: normal; 
+    	line-height: 48px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; padding-top: 30px;
+    	padding-bottom: 40px;}
+
+   
+
+    p { font-family: ‘Original Surfer’, cursive; font-size: 19px; line-height: 28px; margin: 0 0 24px; }
+
+    ul {
+    	list-style-position: inside;
+    	font-family: ‘Original Surfer’, cursive; 
+    	font-size: 19px;
+
+    }
